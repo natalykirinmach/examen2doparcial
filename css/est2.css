@@ -1,0 +1,165 @@
+*
+{
+	font-family: verdana;
+	margin:5px;
+	padding:5px;
+}
+img
+{
+		height:50%;
+		width:50%;
+}
+h1
+{
+		color:red;
+		text-align:center;
+}
+
+ul
+{
+	list-style-type:circle;
+	color:#FF6700;
+	font-size:25px;	
+	text-transform:uppercasercase;
+	color:green;
+	text-align:left;
+	
+}
+
+p
+{
+	font-size:16px;
+	
+	
+}
+#cont1
+{
+	background:#FF007C ;
+	
+}
+img
+{
+	width:100%;
+	height:100%;
+}
+	
+	
+	}
+	section
+	{
+		background-color:#355044 ;
+
+		float:left;
+	}
+	aside
+	{
+		background-color:green ;
+		height:300px;
+		width:25%;
+		float:right
+	}
+}
+
+#cont2
+{
+	{
+		background:#FF84C0  ;
+	}
+img
+{
+	width:25px;
+	height:30px;
+}	
+
+}
+#cont3
+	{
+		background:#F3B6D3  ;
+	}
+#cont4
+
+	{
+		background:;#FEE4F1  ;
+	}
+#cont5
+{
+		background:;#FFF4FA ;
+	}
+
+
+footer
+	{
+		background-color:#FF007C ;
+	}
+	
+@media screen and (min-width:500px)
+{
+	#cont1
+	{
+		background:#FF007C  ;
+	}
+	#cont2
+
+	{
+		background: #FF84C0;
+	}
+	#cont3
+	{
+		background:#F3B6D3 ;
+	}
+	#cont4
+	{
+		background:#FEE4F1 ;
+	}
+	#cont5
+	{
+		background:;#FFF4FA  ;
+	}
+
+	
+	
+	h1
+	{
+		color:white;
+		text-decoration:underline;
+	}
+
+
+
+}
+
+
+@media screen and (max-width:500px)
+{
+	#cont1
+	{
+		background:purple;
+	}
+	#cont2
+
+	{
+		background:red;
+	}
+	#cont4
+	{
+		background:brown;
+	}
+	#cont5
+{
+		background:;#yellow  ;
+	}
+
+	
+	section
+	{
+		background:orange;
+	}
+	img
+
+	{
+		width:100%;
+		height:100%;
+	}
+
+}
+
